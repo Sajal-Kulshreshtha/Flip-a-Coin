@@ -24,11 +24,11 @@ css
 Copy
 Edit
 flip-a-coin/
-├── index.html
-├── style.css
-├── script.js
-├── heads.png
-├── tails.png
+1.index.html
+2.style.css
+3.script.js
+4.heads.png
+5.tails.png
 How to Use
 Clone or download the repository.
 
@@ -37,3 +37,5 @@ Place appropriate heads.png and tails.png images in the project folder.
 Open index.html in a web browser.
 
 Click the "RANDOM" button or the coin image to flip the coin.
+
+Deployed Website is here:https://beautiful-swan-ecfa85.netlify.app/
